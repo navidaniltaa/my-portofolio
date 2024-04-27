@@ -1,0 +1,273 @@
+health;sport;finance
+"After the completion of the Human Genome Project in April 2003, scientists realize that decoding human genome is not enough to understand human biology because there are tremendous microorganisms living in and on the human body throughout the full life cycle, and they are critically affecting human life. Currently, the Human Microbiome Project, conceived as a “second human genome project,” has become the research spotlight of the scientific community of the whole world [1]. The human microbiome, known as the “forgotten organ,” has been elevated to an unprecedented importance in a wide array of host processes such as growth, development, physiology, immunity, nutrition, and diseases in the last decade. Trillions of microorganisms such as bacteria, archaea, viruses, parasites, and fungi symbiotically inhabit inside and outside the mammal body. That is why humans are regarded as “superorganisms.” The in-depth exploration of human microbiome by fast renovation of sequencing technologies, complemented by analysis of transcriptomes, proteomes, metabolomes, and immunomes, and by mechanistic experiments in model systems, has dramatically reshaped our understanding of the correlations between human health and microbiomes.
+
+Among all the organs of the mammalian body, the microbiome in the gut has attracted the most attention in biomedical research. The gut microbiome, a collection of microbiota and their genetic contents from gut, exerts an extensive consortium of immune modulation and metabolic activities [2]. Researchers from all over the world have investigated the dynamic gut microbiome-host-environment cross-talks extensively to decipher its roles and mechanisms in health and disease. Through concerted efforts over the last two decades, we now have better understanding of the identity and functionality of the gut microbiome. This is mainly attributed to the state-of-the-art methodological advances. Recent culture-independent multiomics techniques, including genomics, transcriptomics, proteomics, metabolomics, and culturomics, combined with modern sequencing technologies, have revealed that the compositions, functions, and homeostasis of gut microbiome, and its interactions with the host can have an immense influence in both the maintenance of health and the pathogenesis of diseases. Moreover, the cutting-edge researches have identified that the gut microbiome contributes to not only the health and diseases of the gut itself but also to those remote extraenteric organs such as the liver, brain, skin, heart, muscle, and bone via bidirectional signaling process. These findings provide new clues to comprehend the pathogenesis of those extraenteric diseases and will also subvert our previous knowledge.
+
+The gut microbiome has recently been implicated a host of chronic diseases ranging from gastrointestinal inflammatory and metabolic diseases to neurological, cardiovascular, respiratory illnesses, and even cancers. However, most of the current gut microbiome cross-sectional studies exhibit significant heterogeneity influenced by host and environmental factors [3]. Large-scale, cross-regional, longitudinal disease progression follow-up studies with well-phenotyped subjects will be more conducive to clarifying and verifying the correlations between the gut microbiome and the different stages of diseases, which will shed light on the novel diagnostic and therapeutic strategies in the basis of the gut microbiome.
+
+Increasing health and diseases are found to be intricately reliant on the gut microbiome and influence the pathophysiological functions which we are beginning to understand. In fact, the findings from most current microbiome observational studies, even in large-scale longitudinal observations, are limited to identifying the associations and correlations instead of causations.
+
+Although it is critical to be wary of correlations without mechanistic insights, transmuting observational findings from correlation to causation has obvious difficulties. Given innumerable distinct exogenous and endogenous factors involved in host-microbiota interaction over a lifetime, the host-microbiota impact each other reciprocally, and the microbiota interact in many modes among themselves, and the decipher of causality between the gut microbiome and a specific disease becomes a formidable challenge.
+
+Now, human microbiome investigations have reached a critical inflection point. Scientists are trying to figure out the mechanism that the gut microbiome affects host health and diseases in the second wave of microbiome studies, elucidating the particular molecular mechanisms by which the microbiome impacts on host physiology and pathology [4]. Apparently, it is ethically impossible to inoculate human experimental subjects with aetiological agents to fully understand the roles and mechanisms of the gut microbiome in health and diseases, while the animal models can be considered as an important alternative. The germ-free animal models have emerged as one of the valuable experimental tools for host-microbiome interactions research. Moreover, genetically modified germ-free animals can be used to investigate interactions between specific genes and the gut microbiome. Monocolonized germ-free animals can be used to investigate how specific gut microbes affect host health and diseases, and humanized microbiota-associated animals have been commonly used for addressing causal relationships between altered microbiomes and host pathology [5]. In addition, these animal models can also be used to evaluate the roles of diet, nutrients, functional foods, bioactive compounds, and live organisms on treating host diseases by targeted to the gut microbiome. New animal models (especially larger mammalian models) can provide valuable insights into the role of the microbiome. However, the gut microbiome is significantly impacted by host genes and other environmental factors, including (but not limited to) food, bedding, caging, and temperature. Thus, more rigorously controlled animal experimental designs should be highlighted to ensure high rates of experimental repeatability and reproducibility. Meanwhile, such studies pave an essential first step toward the development of microbiome-based diagnostic and therapeutic strategies for diseases.
+
+With the rapid development of gut microbiome research and fast growing of knowledge update and accumulation, monitoring of the human microbiome has become an emerging area of diagnostics for personalized medicine. The microbiome-disease associations or correlations and the cause-consequence effects of the specific gut microbiome signatures make it possible to develop novel diagnostic, prognostic, and most importantly, therapeutic strategies based on microbiome manipulation. Noninvasive sampling for gut microbiota research can also facilitate large-scale public health applications, including early diagnosis and risk assessment in various diseases. Before microbiome-based diagnostics and therapies are translated to clinical medicine, it should be defined what is healthy or normal microbiome [6]. However, universal healthy microbiome is so far undefined, since gut microbiome varies with aging, sex, race/ethnicity, dietary habit, life styles (e.g., alcohol, smoking, and physical activity), geographic location, and medicine taken [7, 8]. Besides, the gut microbiome is dynamic, referred as “a necessary and ever-changing organ.” Many larger-scale microbiome studies have only recognize the healthy gut microbiome from those healthy subjects in their eyes, which cannot be considered as the universal healthy microbiome. Other studies simply regarded populations of specific microbes as the healthy gut microbiome. Therefore, although it is important for developing microbiome-based diagnostic applications to characterize disease-associated changes in the microbiome before and after disease onset in individuals, a global criterion of healthy or normal gut microbiome is still an unmet challenge for researchers and waiting to be established. Apparently, the field is just getting started and warrants further work. We may expect to see the implementation of microbiome diagnostics in routine medical practice in the next decade.
+
+Gut microbiome has also been considered as a novel target for precise and personalized medicine, as the fact of contributing to gut epithelial construction and function maintenance, food digestion and metabolism, and immune system development [2]. The gut microbiome has the characteristics of resilience and can be reshaped by perturbations. We cannot really change our genome, but we can easily change our gut microbiome through our life. Gut microbiome researches have made it become possible to read out our microbiome, as well as to find and modify the predispositions. Microbiome-targeted therapies aim to rehabilitate perturbed microbial ecosystems into healthy or normal status, which can restore health or prevent diseases [9]. Many microbiome-targeted therapies such as dietary intervention, nutritional supplement, antibiotics, probiotics, prebiotics, synbiotics, postbiotics, psychobiotics, bacteriophage, and fecal microbiota transplantation have been used to regulate the human microbiome [10, 11]. So far, great progress has been achieved in treating metabolic diseases, cardiovascular disorders, and cancer.
+
+As mentioned above, the cause-and-effect relationships between the gut microbiome and diseases suggest that the function of the gut microbiome may be more relevant targets than its altered taxonomic abundances. Thus, the microbiome-targeted therapies should focus on the modulation of the microbiome functions instead of simply changing the taxonomic abundances. Deeper mechanistic understanding of the function of the gut microbiome or specific microbes are required to develop precise therapeutics and treatments. Scientists have realized this need and has started to studying the functional aspects of the microbiome. ";"After Arsenal lost to Aston Villa and went out of the Champions League in the same week, there were suggestions their season was at risk of unravelling. Since then they have secured a win at Wolves and thrashed Chelsea but they face a pivotal test of their credentials against their bitter rivals Tottenham on Sunday.
+
+That game is not just about a team fighting for the title travelling to one aiming to qualify for the Champions League; there is a lot more at stake in a derby – just ask Liverpool. The effect of hostility should not be underestimated in potentially season-defining matches. Tottenham will be desperate to dent the Gunners’ chances of securing a first Premier League trophy in 20 years.
+
+No one wants to lose against their closest neighbours and with the extra edge to this fixture it is sure to be a ferocious battle. A lot of the focus is on Arsenal but Tottenham are six points behind fourth-placed Villa with two games in hand. They have a lot to play for, and the players and supporters are well aware of that.
+
+When I was playing, derbies focused the mind. In the buildup I would think about the consequences of losing. The idea of seeing the opposition fans celebrate and gloat for days on social media would irritate me. My ego never wanted to experience that and it was a good source of inspiration to help lift things a potentially critical one or two per cent. There was almost a level of fear of facing the consequences of not winning, and channelling that was important.
+
+Arsenal have shown great character to recover from setbacks, and winning at Spurs would boost their momentum. Their fixtures after Sunday – against Bournemouth, Manchester United and Everton – are winnable, leaving the visit to Tottenham as their biggest task, and the result could define their final place. That ramps up the pressure but Arsenal are getting used to having to cope with it.
+
+Mikel Arteta’s players need to keep composed in what will be a heated environment. There is a fine line between being up for a match and letting emotions dictate performance. This time a year ago, Arsenal had a similarly important match at Manchester City and lost 4-1, going on to finish five points behind the champions, but they have a season’s more experience of fighting for silverware and this will put them in a stronger position than 12 months ago. This is a group that knows what needs to be done to get through this phase; the performance is not the most important thing in the north London derby – it is the result.
+
+Tottenham have had two weeks off since their 4-0 defeat at Newcastle. A fortnight is more than enough to reflect, refresh and move forward but I would rather be in Arsenal’s camp where the games are coming thick and fast, providing momentum and rhythm. They have played four times since Tottenham last kicked a ball in anger. Many will say Tottenham are fresher but I believe it is better to be rolling with matches rather than waiting for the next one, especially considering the past two victories Arsenal have enjoyed.
+
+Kai Havertz celebrates scoring his first of two goals against Chelsea on Tuesday
+View image in fullscreen
+Kai Havertz celebrates scoring his first of two goals on Tuesday as Arsenal thrashed Chelsea. Photograph: Tom Jenkins/The Guardian
+The win at Wolves was not Arsenal’s best performance but it will have helped to flush the two previous defeats out of the system and been a great mental boost. To follow up by scoring five against Chelsea, improving the goal difference and keeping a clean sheet, will amplify the positivity but winning a derby is often more about mentality than form.
+
+Tottenham need to play on the emotions of what Arsenal are up against by getting at them in the early stages and testing them physically. They should test whoever is playing at left-back because that is a slight weakness for Arsenal and Ange Postecoglou has the right players to target it. Unai Emery and Aston Villa showed it was possible to play through Arsenal with the right gameplan and Postecoglou will have made note of that, even if he has a different style. He knows that bravery on the ball will be imperative.
+
+Villa and Bayern stifled Arsenal, as did Wolves for long periods. There are chinks in the Arteta armour because they are very structured in terms of how they play. For example, if Tottenham have a goal-kick, Arsenal will know the positions they need to be in to win the ball back. On the one hand that helps them but on the other clever opponents can find ways to combat that prescriptive defensive organisation. Villa took advantage of this and created some unexpected problems and Arsenal found it difficult to come up with solutions. In the second leg against Bayern Munich, Thomas Tuchel’s plan of defending in a different manner on the left and right stopped Arsenal playing out and they struggled to adapt.";"Deutsche Bank investment banking unit ‘standout’ in first quarter, CFO says
+Deutsche Bank
+ shares popped to a more than six-year high on Thursday afternoon, after the German lender reported a 10% rise in first-quarter profit, beating expectations amid an ongoing recovery in its investment banking unit.
+
+After declining in the morning, shares were up 7.2% at 1:27 pm in London, hitting the highest intraday level since December 2017, according to LSEG data.
+
+
+Net profit attributable to shareholders was 1.275 billion euros ($1.365 billion) for the period, ahead of an aggregate analyst forecast of 1.23 billion euros for the period, according to LSEG data.
+
+Deutsche Bank said this was its highest first-quarter profit since 2013. It also marks the bank’s 15th straight quarterly profit.
+
+Group revenue rose 1% year-on-year to 7.8 billion euros, which the bank attributed to growth in commissions and fee income, along with strength in fixed income and currencies. The revenue print also came in ahead of an analyst forecast of 7.73 billion euros, according to LSEG.
+
+Revenues at its investment bank increased 13% to 3 billion euros, following a 9% slump through full-year 2023 which had dragged down overall profit. The performance restores the division as Deutsche Bank’s highest-earning unit on growth in financing and credit trading revenue.
+
+Other first-quarter highlights included:
+
+
+Net inflows of 19 billion euros across the Private Bank and Asset Management divisions.
+Credit loss provision was 439 million euros, down from 488 million in the fourth quarter of 2023.
+
+Common equity tier one (CET1) capital ratio — a measure of bank solvency — was 13.4%, compared to 13.6% at the same time last year.
+“There’s momentum in the businesses, actually across all four businesses, and we do think it’s sustainable,” Deutsche Bank Chief Financial Officer James von Moltke told CNBC’s Annette Weisbach on Thursday.
+
+“We’re delivering on our commitments on costs and capital returns in the quarter.”
+
+Germany’s biggest lender reported net profit of 1.3 billion euros in the prior quarter and of 1.16 billion euros in the first quarter last year.
+
+In 2023, the bank announced it would cut 3,500 jobs over the coming years, as it targets 2.5 billion euros in operational efficiencies to boost profitability and increase shareholder returns.
+
+In a research note Thursday, analysts at Keefe, Bruyette & Woods called the group results “reasonable” but “nothing special,” highlighting strong investment bank figures but underperformance in its corporate bank and asset management divisions.
+
+Credit losses remained elevated while guidance was unchanged despite the higher interest rate expectations, they added."
+"Indonesian Health Ministry Reports Increasing Cases of Singapore Flu. The Ministry of Health reports that there has been a significant increase in cases of Hand, Foot and Mouth Disease (HFMD), commonly known as ‘Singapore Flu’ in Indonesia. As of the 11th week of 2024, more than 5,000 patients have been infected with the viral disease.
+Achmad Farchanny Tri Adriyanto, the ministry's director of health surveillance and quarantine, said the number reflected an increase from the same period last year. 
+
+Tjandra Yoga Aditama, professor of pulmonology and respiratory medicine at the University of Indonesia's Faculty of Medicine, said there is no specific prevention for HFMD, but the risk of contracting it can be reduced by clean and healthy living habits, such as washing hands with soap. If the complaint is significant, you should consult the nearest health worker.
+
+""The real name of this disease is HFMD, but it is often mistakenly called Singapore flu, it is a disease that is quite common among children and infants,"" said Tjandra Yoga.
+He said HFMD has an incubation period of 3-7 days and is characterized by fever, skin rashes and blisters or small lumps on the soles of the feet, hands and oral mucosa. Patients tend to have loss of appetite and sore throat.
+Pediatrician Edi Hartoyo said that HFMD does not cause immunity and can be re-infected when the body's immunity wanes.
+
+""If your children are infected with Singapore flu, isolate them and avoid contact with other children as it is contagious. The infectious period is 3-5 days. ""By the 7th day, he was no longer contagious, even though the lesion was in the healing stage, it is not contagious,"" he said.";"The Indonesian U-23 national team advanced to the quarterfinals of the AFC U-23 Asian Cup after a 4-1 win over Jordan in their final Group A match at the Abdullah bin Khalifa Stadium in Doha, Qatar on Sunday, April 22.
+
+Erick Thohir, chairman of the Indonesian Football Association (PSSI) expressed his joy and pride over the game and the fighting spirit shown by the players. He emphasized that the success proved the Garuda Muda squad’s hard work.
+
+“This is proof that we can make it. I hope this courage will continue rising in the next round as the opponents are getting stronger. This will be the motivation for the next target: to qualify for the Olympics. Hopefully,” he said in a written statement.
+
+Erick assessed that the players’ performance has improved since the controversial loss to Qatar. “Even though they had an extraordinary performance with nine players at the time, they didn't give up under pressure,” he said.
+“I applaud coach Shin Tae Yong's strategy to get the team to play really well. This is good and is a vital asset because the battle is still long. Let’s pray and keep supporting the national team,” Erick Thohir remarked.
+Indonesia finished second in Group A behind Qatar with six points from three  games
+
+Shin Tae-yong's squad will now face either Japan or South Korea in the quarterfinals of the 2024 Asian U-23 on Friday, April 26, at 00:30 Jakarta time.
+
+This Indonesia’s tournament debut will also serve as a qualifier for the men's football tournament at the Paris 2024 Olympics. To secure a ticket, Indonesia must finish in the top three at the 2024 U-23 Asian Cup. Fourth position can still offer the chance to qualify, via a playoff with teams from Africa.";"Global economic growth prospects are confronting a unique mix of headwinds, including from Russia’s invasion of Ukraine, interest rate increases to contain inflation, and lingering pandemic effects such as China’s lockdowns and disruptions in supply chains.
+
+In turn, our latest World Economic Outlook, released last month, lowered our global growth forecast for next year to 2.7 percent, and we expect countries accounting for more than one third of global output to contract during part of this year or next. Moreover, as we discuss in our latest report prepared for the Group of Twenty, recent high-frequency indicators confirm that the outlook is gloomier.
+
+As the Chart of the Week shows, there has been a steady worsening in recent months for purchasing manager indices that are tracking a range of G20 economies. These survey-based measures gauge the momentum of manufacturing and services activity.
+As the chart illustrates, readings for a growing share of G20 countries have fallen from expansionary territory earlier this year to levels that signal contraction. That is true for both advanced and emerging market economies, underscoring the slowdown’s global nature.
+
+While gross domestic product releases for the third quarter surprised on the upside in some major economies, October PMI releases point to weakness in the fourth quarter, particularly in Europe. In China, intermittent pandemic lockdowns and the struggling real estate sector are contributing to a slowdown that can be seen not only in PMI data but also in investment, industrial production, and retail sales. This will inevitably have a significant impact on other economies due to China’s large role in trade.
+
+Despite growing evidence of a global slowdown, policymakers should continue to prioritize containing inflation, which is contributing to a cost-of-living crisis, hurting low-income and vulnerable groups the most. As our G20 report emphasizes, the macroeconomic policy environment is unusually uncertain.
+
+However, continued fiscal and monetary tightening is likely needed in many countries to bring down inflation and address debt vulnerabilities—and we do expect further tightening in many G20 economies in the months ahead. Nonetheless, these actions will continue to weigh on economic activity, especially in interest-sensitive sectors such as housing.
+
+The challenges that the global economy is facing are immense and weakening economic indicators point to further challenges ahead. However, with careful policy action and joint multilateral efforts, the world can move toward stronger and more inclusive growth."
+"The fertility rate in the United States has been trending down for decades, and a new report shows that another drop in births in 2023 brought the rate down to the lowest it’s been in more than century.
+After a steep plunge in the first year of the Covid-19 pandemic, the fertility rate has fluctuated. But the 3% drop between 2022 and 2023 brought the rate just below the previous low from 2020, which was 56 births for every 1,000 women of reproductive age.
+
+“We’ve certainly had larger declines in the past. But decline fits the general pattern,” said Dr. Brady Hamilton, a statistician with the National Center for Health Statistics and lead author of the new report.
+The birth rate fell among most age groups between 2022 and 2023, the new report shows.
+The teen birth rate reached another record low of 13.2 births per 1,000 females ages 15 to 19, which is 79% lower than it was at the most recent peak from 1991. However, the rate of decline was slower than it’s been for the past decade and a half.
+“The highest rates have, over time, been shifting towards women in their 30s whereas before it used to be with women in their 20s,” Hamilton said. “One factor, of course, is the option to wait. We had a pandemic, or there’s an economic downturn, let’s say – women in their 20s can postpone having a birth until things improve and they feel more comfortable. For older women, the option of waiting is not as viable.”
+Meanwhile, births continued to shift to older mothers. Older age groups saw smaller decreases in birth rates, and the birth rate was highest among women ages 30 to 34 – with about 95 births for every 1,000 women in this group in 2023. Women 40 and older were the only group to see an increase in birth rate, although – at less than 13 births for every 1,000 women – it remained lower than any other age group.
+
+These annual reports offer a snapshot in time, he said, but rates can change dramatically depending on the unique situations of the year.
+
+2023 marked the first full year after the US Supreme Court’s Dobbs decision that revoked the federal right to abortion. This provisional data does not show geographic trends, which may obscure some effects that state abortion bans have had on state-level birth trends. However, an analysis from November suggests that states with abortion bans had an average fertility rate that was 2.3% higher than states where abortion was not restricted in the first half of 2023, leading to about 32,000 more births than expected.
+As maternal mortality rates continue to rise in the US, so do rates of cesarean deliveries, which Hamilton notes are “major abdominal surgeries.”
+
+Nearly a third of all births (32.4%) were C-sections, a share that is now the highest it’s been in a decade, according to the new CDC report. But C-sections are becoming more common among low-risk births too, such as those among women having their first birth with pregnancies that have reached term and single fetuses that are facing head-first.
+
+Provisional births data is based on birth records received and processed by the National Center for Health Statistics as of January 25. Trends capture more than 99% of all birth records for the year, but data is subject to change once all records are reviewed.";"Jonatan Christie beat compatriot Anthony Sinisuka Ginting 21-15, 21-14 to win his first All England Open men's singles badminton title in Birmingham on Saturday. Victory also gave Jonatan his maiden Super 1000 win at the first time of asking as the world number nine defeated close friend Ginting for the first time since 2019. But Jonatan had to withstand fightbacks from Ginting in both games before the 26-year-old took Indonesia's first men's singles title at badminton's oldest major championship since Hariyanto Arbi defeated compatriot Ardy Bernardus Wiranata in 1994. ""I am very happy because we made history, the first all-Indonesia final after 30 years,"" said Jonatan. ""I am the champion here and it is very important for me. The start of 2024 has been up and down but God helped me a lot this tournament."" Ginting, recalling his long association with Christie, said: ""My first memory of Jonatan is our first day in the national team. We were the juniors, really young at the time, 16 or 17-years-old.";"The Finance Ministry explained the Indonesian government debt, which was recorded at Rp8,041 trillion as of November 2023. 
+“As of November, the outstanding government debt was Rp8,041 trillion, but of course, we don't just look at the nominal amount,” said the ministry’s Director General of Financing and Risk Management, Suminto, at a press conference in Central Jakarta on Tuesday, January 2, 2024.
+Suminto explained that various debt portfolio indicators showed that the current debt performance, including debt risk, was better than in previous years. As an example, he said that the ratio of debt to gross domestic product, or debt-to-GDP ratio, experienced a significant improvement.
+
+At the end of November, the debt-to-GDP ratio was 38.11 percent, down from 39.7 percent in December 2022 and 40.7 percent in December 2021.
+
+“So once again, the debt-to-GDP ratio declined as of November,” Suminto confirmed.
+Meanwhile, in terms of currency risk, he argued that Indonesia's debt in foreign currency (forex) also continued to decline. 
+Suminto noted that the government's outstanding debt in foreign currency stood at 37.9 percent in 2019, or before the pandemic, and 41 percent in 2018. Meanwhile, as of November 2023, the figure was 27.5 percent.
+
+“So, the [current] currency risk is better,” Suminto concluded.
+Additionally, in terms of refinancing risk, the average time to maturity was also quite long at around 8.1 years. In terms of other market risks, the interest rate risk for most of the government debt was around 82 percent. However, the interest rate was fixed.
+Therefore, Suminto said the government's debt was not too sensitive to interest rate movements in the market. “It is similar when reflected in other debt risk indicators, such as debt sustainability,” he said."
+"The World Health Organization's Chief Scientist said Thursday he was concerned about bird flu spreading through cows in the United States and called on the world to watch the virus more closely.(CNN)The bird flu spreading through cattle in the United States is an “enormous concern” the chief scientist of the World Health Organization said Thursday as he called for more tracking and preparation for the virus.
+
+So far, there is no evidence that the highly pathogenic H5N1 flu virus can spread from person to person. This flu strain was first detected in birds in 1996 and has primarily been a threat to farmed and wild fowl, but in the past two years, an increasing number of mammals have tested positive with the virus, indicating that the virus is looking for new hosts and moving closer to people.
+White oblivious chickens waiting to be butchered, Elk Hart Lake, Wisconsin, USA
+“The great concern, of course, is that in doing so and infecting ducks and chickens — but now increasingly mammals — that that virus now evolves and develops the ability to infect humans. And then critically, the ability to go from human-to-human transmission,” Dr. Jeremy Farrar, a British medical researcher and chief scientist at WHO since 2023, told reporters on Thursday in Geneva.
+
+“We have to watch, more than watch, we have to make sure that if H5N1 did come across to humans with human-to-human transmission that we were in a position to immediately respond with access equitably to vaccines, therapeutics and diagnostics.”
+
+Though H5N1 doesn’t spread from person to person, humans can catch it when they’re exposed to infected animals. In the US, one person in Texas has tested positive for H5N1 this year. That person was working with cows when they tested positive, and it is believed they caught it from an infected cow.
+
+They are only the second documented case of human H5N1 in the United States. The first was in a poultry worker in Colorado in 2022.
+“This virus is a really scary virus. It’s something I would hate to see in humans,” Dr. Richard Webby, director of the WHO’s coordinating center for studies on the ecology of influenza and a scientist at St. Jude’s Children’s Research Hospital, told CNN.
+
+Webby, who has been studying H5N1 for 20 years, said even though this virus has never figured out how to efficiently make people sick, “what’s happening now there are lots more small mammals being infected with this virus and we’ve ever seen in the past 20, close to 25 years of monitoring, so that is absolutely concerning,” he said.
+
+Webby said H5N1 is more active now than it ever has been, but it still hasn’t developed key mutations that scientists are worried about that could help it infect people.
+
+“Because we haven’t seen those changes does suggest to me that this virus has got quite a hurdle to overcome to become a real sort of human pathogen,” Webby said. 
+
+So far in the United States, the US Department of Agriculture’s Animal and Plant Health Inspection Services has reported 29 infected herds in eight states — Texas, New Mexico, Kansas, South Dakota, Idaho, Michigan, Ohio and North Carolina.
+The US Centers for Disease Control and Prevention says that while the current risk to public health from H5N1 is low, it is monitoring the situation carefully. In an update posted to its situation summary on Thursday, the CDC said is studying the virus isolated from the recent human case in the US and found it to be susceptible to antiviral medications.
+
+The agency also said it has created a candidate vaccine virus that can be used as a template to make a vaccine if needed.";"The Dallas Mavericks earned a hard-fought 96-93 Game 2 win over the Los Angeles Clippers on Tuesday to level their first-round playoff series at 1-1, leading Dallas head coach Jason Kidd to reminisce about how the game used to be played back in his day.
+
+“We played 48 minutes of physical basketball,” Kidd said. “Both teams were under 100. It was ’90s basketball at its best.”
+
+The Mavericks were led by 32 points from Luka Don?i?, who added yet another playoff win against the Clippers to his résumé, along with six rebounds and nine assists.
+
+In a tight contest throughout, the Clippers led 73-67 in the fourth quarter before Dallas roared back with 14 unanswered points – capped off with a Kyrie Irving driving hook shot with 5:18 left – to open up an 81-73 advantage.
+
+The Clippers closed the gap again, but Don?i? hit a clutch, step-back three-pointer over James Harden with 1:26 left in the game to extend Dallas’ lead to 90-81.
+
+The heat of the moment caused Don?i? to turn to the Clippers crowd and roar in triumph.
+
+“It’s basketball at the end of the day – I did this my whole life, basically,” Don?i? said after the game, per the Mavericks.
+
+“I just try to have fun out there. The intensity is way higher [in the playoffs], and I just go out there and play hard and have fun.”
+
+Irving added 23 points, six rebounds, three assists and three steals and lauded the Mavs’ teamwork and ability to do the “little things” as the team stole home-court advantage.
+
+“Just staying poised and understanding that mistakes are going to happen, and it’s a playoff game,” he told the Mavs broadcast. “It’s going to be a low-scoring game most times and we’ve just got to be able to have that resiliency to keep battling to the end.
+
+“That’s what a team game is about. Teams win championships, teams win games, so it’s all about us doing the right things and continue to positively encourage one another.”
+
+The Clippers were led by 22 points from Harden and Paul George, while Kawhi Leonard scored 15 points on his return from knee inflammation.
+
+“I felt good,” Leonard said, per ESPN. “We still got more games to play and more time to get better. Just keep trying to get a rhythm back.”
+
+The teams now head to Dallas for the first of two games on Friday night.
+
+Elsewhere, the Indiana Pacers leveled their first-round playoff series against the Milwaukee Bucks with an impressive 125-108 Game 2 road victory.
+
+Pascal Siakam had an absurd night for the Pacers, registering 37 points, 11 rebounds and six assists while shooting 69.6% from the floor.
+
+The Milwaukee Bucks, still without injured star Giannis Antetokounmpo, were once again led by Damian Lillard who had 34 points, four rebounds and five assists.
+
+The Minnesota Timberwolves were surprisingly led to victory by Jaden McDaniels, who scored 25 points in the team’s convincing 105-93 win over the Phoenix Suns to open up a 2-0 series lead.
+
+McDaniels – who averaged 10.5 points per game during the regular season – made 10 of his 17 field goals to go along with eight rebounds, three assists and a steal.
+
+It was a tough night for rising star Anthony Edwards, who managed just 15 points on 25% shooting.
+
+Devin Booker led the Suns in scoring with 20 points, while Kevin Durant added 18 points.";"Sales of previously owned homes in the United States fell in March as home prices climbed and mortgage rates held steady that month, reflecting the persistent pain of America’s affordability woes and undermining the crucial spring homebuying season.
+
+Existing home sales, which make up the majority of the housing market, fell 4.3% in March to a seasonally adjusted annual rate of 4.19 million, the sharpest drop in more than a year, the National Association of Realtors reported Thursday. Sales fell across the country except in the Northeast region, which saw an increase for the first time since November 2023.
+
+Meanwhile, the median price of an existing home was $393,500 last month, an increase of 4.8% from a year earlier. That was the highest March price on record. Rising home prices coupled with mortgage rates stuck at elevated levels means Americans are still dealing with a tough housing market.
+
+Home sales are up from the decades-lows seen last fall and were off to a robust start this year, but now that momentum seems to have come undone. Sales might not rise meaningfully higher as the Federal Reserve signals that it won’t cut interest rates anytime soon.
+
+“Though rebounding from cyclical lows, home sales are stuck because interest rates have not made any major moves,” NAR chief economist Lawrence Yun said in a release. “There are nearly six million more jobs now compared to pre-Covid highs, which suggests more aspiring homebuyers exist in the market.”
+
+Mortgage rates play a key role in determining housing affordability. That could be a frustrating sticking point.
+
+Last year, home sales were in the doldrums at their lowest level in nearly three decades as mortgage rates shot up, reaching a two-decade high of 7.79% in October.
+
+Then mortgage rates began to decline on hopes that the Fed would cut interest rates aggressively in 2024, but those expectations have been thrown out the window. Disappointing inflation reports and signs that the economy remains strong are keeping the Fed in wait-and-see mode, pushing back the timing of the first rate cut. Mortgage rates have held steady in recent weeks but are poised to rise because they track bond yields, which are climbing on persistently high inflation readings.
+
+Home prices nationwide, which also play a role in affordability, haven’t retreated in any meaningful way.
+
+One bright spot in NAR’s latest report on existing home sales: There was an increase in first-time homebuyers trickling into the market. They represented 32% of all transactions in March, up from 26% in February and 28% higher than a year ago, while the share of buyers who were investors declined in March.
+
+“Good to see that number go up above 30%” Yun said. That may be “because people heard about the lawsuit settlement where the buyers possibly need to come up with extra funds to pay up some professional representation, but they want to do it before the new rules takes place sometime in July,” Yun added.
+
+A historic NAR settlement, which was announced in March and is expected to change how homebuyers and sellers pay their real estate agents, hasn’t been approved by the courts yet. But it is already sending shockwaves through the real estate industry, with some buyers saying they plan to begin searching for a home before the new rules take effect."
+"Lifestyle is a way used by people, groups and nations and is formed in specific geographical, economic, political, cultural and religious text. Lifestyle is referred to the characteristics of inhabitants of a region in special time and place. It includes day to day behaviors and functions of individuals in job, activities, fun and diet.
+
+In recent decades, life style as an important factor of health is more interested by researchers. According to WHO, 60% of related factors to individual health and quality of life are correlated to lifestyle (1). Millions of people follow an unhealthy lifestyle. Hence, they encounter illness, disability and even death. Problems like metabolic diseases, joint and skeletal problems, cardio-vascular diseases, hypertension, overweight, violence and so on, can be caused by an unhealthy lifestyle. The relationship of lifestyle and health should be highly considered.
+
+Today, wide changes have occurred in life of all people. Malnutrition, unhealthy diet, smoking, alcohol consuming, drug abuse, stress and so on, are the presentations of unhealthy life style that they are used as dominant form of lifestyle. Besides, the lives of citizens face with new challenges. For instance, emerging new technologies within IT such as the internet and virtual communication networks, lead our world to a major challenge that threatens the physical and mental health of individuals. The challenge is the overuse and misuse of the technology.
+
+Therefore, according to the existing studies, it can be said that: lifestyle has a significant influence on physical and mental health of human being. There are different forms of such influences. Consanguinity in some ethnicity is a dominant form of life style that it leads to the genetic disorders. Reformation of this unhealthy life style is a preventing factor for decreasing the rate of genetic diseases (2). In some countries, the overuse of drugs is a major unhealthy life style. Iran is one of the 20 countries using the most medications. They prefer medication to other intervention. Furthermore, in 15–40% of cases they use medications about without prescription (3). Pain relievers, eye drops and antibiotics have the most usage in Iran. While self-medications such as antibiotics have a negative effect on the immune system, if the individual would be affected by infection, antibiotics will not be effective in treatment. Overall, 10 percent of those who are self-medicated will experience severe complications such as drug resistance. Sometimes drug allergy is so severe that it can cause death";"The mission of the Indonesian U-23 Team to penetrate the 2024 Paris Olympics is very much determined by the result against South Korea on Friday (26/4/2024) at 00.30 WIB at the Abdullah Bin Khalifa Stadium, Doha, Qatar. If they can reach the semifinals of the 2024 U-23 Asian Cup, ""Garuda Muda"" will head to France, the country hosting the 33rd edition of the Olympics.
+
+In order to qualify directly for Paris 2024, Indonesia must become one of the top three teams in the 2024 U-23 Asian Cup. To achieve this, Indonesia must reach the final or win the third place match.
+
+Even if they make it to the final four, but lose in the remaining two games, the team led by Shin Tae-yong will still head to France.
+
+Even, the Garuda Muda team will arrive in France faster before the start of the final round of the 2024 Olympic soccer tournament which begins on July 24, 2024.
+
+If they fail to win the duel for third place in the 2024 U-23 Asian Cup, Indonesia will challenge Guinea in a play-off match to win tickets for the 16th team to participate in the 2024 Olympics. Referring to the FIFA page, the highest football authority The world football has determined that the play-off game will be held at the Clairefontaine National Football Center, France, on May 9 2024.";"The tighter money supply could drive up the margins of Indonesian banks, but problems are on the horizon should the lower supply overstay its welcome.
+ 
+Loan to deposit (LDR) ratio in Indonesia rose to 86% in February compared to 81% a year earlier, with the loan growth (11%) outpacing deposit growth (5.4%). This tighter liquidity has driven banks to raise funds from high-cost funding, noted UOB Kay Hian analyst Posmarito Pakpahan.
+
+Whilst the tighter liquidity could lead to net interest margin (NIM) in the short-term or even a more stable NIM thanks to more efficient usage, a prolonged period can lower the NIMs of Indonesian banks.
+
+“Based on historical industry data, the liquidity tightening, which led to LDR gradually rising, could lead to net interest margin (NIM) expansion or stable NIM due to more efficient funding (liquidity) usage. Nevertheless, as liquidity continues tightening, NIM would decline deeply as we believe the cost of funds (CoF) would increase faster than lending rate,” Pakpahan warned. In 2012, when the LDR gradually rose to 84% in January from 79% in February, NIM improved by 13 basis points (bp). However, as the LDR rose to 92% by July 2014, NIm ended up plummeting 112 basis points.
+
+Amongst the country’s biggest banks, bank Negara Indonesia (BBNI) notedly posted the deepest decline in NIM in February 2024. In contrast, Bank Central Asia (BBCA) was stable at 5.6%.
+
+Bank Rakyat Indonesia (BRI) saw its NIM drop 14bp compared to February 2023 levels, although it has the highest spike in interest expenses. BRI reportedly had strong loan growth and higher yield to support its NIM, according to Pakpahan.
+
+Bank Mandiri (BMRI), meanwhile, saw its NIM drop 15 bp. Its solid growth of savings accounts and strong loan growth supported the net interest income.
+
+All four banks have guided for strong loan growth in 2024. This could lead to lower lending rates, Pakpahan said.
+
+“We believe banks with a strong underwriting capability and strong presence in the retail and wholesale segments could manage the impact from rising competition in the wholesale segment,” he added.
+
+BRI is expected to be the least impacted by pressure on loan yield due to its exposure in rural areas and the retail segment. BMRI is expected to minimise the impact from the growing retail segment. 
+
+Pakpahan added that BBCA’s liquidity efficiencies will improve its overall yield; whilst BBNI needs to balance its loan growth and yield to maintain its NIM."
+"Undernutrition is one of the key risk factors for tuberculosis (TB) disease. In 2022, undernourishment accounted for an estimated 2.2 million of the 10.6 million TB episodes globally. In light of new evidence on TB and undernutrition, WHO is convening a Guideline Development Group (GDG) meeting on TB and undernutrition, to be held in June 2024. WHO guidelines are developed using the GRADE methodology and are overseen by the WHO Guidelines Review Committee (GRC). The updated guidelines will be accompanied by an operational handbook which will contain practical advice and implementation considerations. Ahead of GDG meetings, WHO publishes the names of the persons invited to join the group, along with their biographies. Biographies of the GDG members for TB and undernutrition can be found at this link.
+
+Integrated patient-centred care and prevention for TB and comorbidities such as undernutrition sits at the heart of the WHO End TB Strategy. In September 2023, the Political Declaration arising from the United Nations High Level Meeting (UN HLM) on the fight against TB reaffirmed the commitment to ending the TB epidemic globally by 2030. In the declaration, Member States committed to strengthening comprehensive care and integrating within primary health care the systematic screening, prevention, treatment and care of TB and for related health conditions such as undernutrition.
+
+WHO's existing guidelines on Nutritional care and support for patients with tuberculosis include recommendations on nutritional assessment and counselling, management of moderate and severe acute malnutrition, and micronutrient supplementation for people with TB disease. They also contain guidance on providing nutritional assessment and support for household contacts of people with TB disease. Given the availability of new evidence on the relationship between TB and undernutrition, and on macro-, and micronutrient supplementation for people with TB disease, WHO's Global Tuberculosis Programme will update the guidelines and develop an accompanying operational handbook on the management of TB and undernutrition. The new guidelines will include the latest WHO recommendations on TB and undernutrition based on updated evidence.";"In San Quentin State Prison and decades through a lengthy sentence, Rahsaan Thomas wasn’t at the peak of his physical fitness, nor was he expecting that to change much. 
+Sentenced to 55 to life in 2003 after fatally shooting one person and injuring another during a drug deal, Thomas joined the prison’s long distance running 1000 Mile Club initially as a “coping mechanism” that helped him to process his long and seemingly endless jail term.
+
+“That amount of time is mind blowing – you think it’s unfathomable. But the way you deal with it is just one day at a time, one step at a time,” he tells CNN Sport.
+
+In addition to keeping himself in shape, Thomas says that running, which he first picked up aged 28 to keep fit with his friends, “reminds me of home.”
+“It’s a way where I can just take my mind off the present and just focus on one step at a time,” he explains.
+
+?Built by prisoners in 1852, the Californian maximum security correctional facility, which is among the USA’s most well-known and notorious for its violent history, is not one you would immediately associate with fitness.
+Immortalized in documentaries, movies, songs and even graced with a performance by Johnny Cash, the prison is the state’s only such institution that conducts executions.
+
+Set up in 2005, San Quentin’s running club meets regularly and is run entirely by volunteer coaches from Marin County’s Tamalpa Running Club, who come from outside the facility to share their expertize and time with aspiring runners in the prison.
+
+Inmates start with conditioning and running shorter distances, before potentially taking part in a full marathon, negotiating 105 laps of a gritty, uneven prison track by the end of the year.";(JAKI) is adouble-blind peer reviewed journal published by Department of Accounting, Faculty of Economics and Business, Universitas Indonesia twice a year (June and December). JAKI aims to publish articles in the field of accounting and finance that provide the significant contribution to the development of accounting practices and the accounting profession in Indonesia and in the world. JAKI has obtained an accreditation from Directorate General of Research and Development Strengthening, Ministry of Research, Technology, and Higher Education of the Republic of Indonesia by SK No. 51/E/KPT/2017 (for the period 4 December 2017 to 4 December 2022). Based on SK 30/E/KPT/2018, Directorate General of Research and Development Strengthening, Ministry of Research, Technology, and Higher Education of the Republic of Indonesia classified JAKI as SINTA 2 Journal. Consistent with its purpose, JAKI provides insights in the field of accounting and finance for academics, practitioners, researchers, regulators, students, and other parties interested in the development of accounting practices and accounting profession. JAKI accepts manuscripts of either quantitative or qualitative research, written in either Indonesian or English. JAKI accepts manuscripts from Indonesian authors and also authors from various parts of the world.
